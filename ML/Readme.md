@@ -14,6 +14,9 @@ Machine-Learning
      - Linear Regression_project1
      - Linear Regression_project2
    - K-Nearest Neighbor
+     - K-Nearest Neighbor_concept
+     - K-Nearest Neighbor_project1
+     - K-Nearest Neighbor_project2
    - Decision Tree
    - Logistic Regression
 4. K-Fold Cross Validation
