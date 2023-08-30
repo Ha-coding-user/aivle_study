@@ -10,6 +10,9 @@ Machine-Learning
    - Classification Model Performance Evaluation
 3. Basic Algorithm
    - Linear Regression
+     - Linear Regression_concept
+     - Linear Regression_project1
+     - Linear Regression_project2
    - K-Nearest Neighbor
    - Decision Tree
    - Logistic Regression
