@@ -24,6 +24,9 @@ Machine-Learning
    - Logistic Regression
      - Logisitc Regression_project1
 4. K-Fold Cross Validation
+     - 4.1.1 K-Fold Cross Validation_concept
+     - 4.1.2 K-Fold Cross Validation_project1
+     - 4.1.3 K-Fold Cross Validation_project2
 5. Hyperparameter Tuning
    - Hyperparameter
    - Random Search, Grid Search
