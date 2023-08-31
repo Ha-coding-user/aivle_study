@@ -22,6 +22,7 @@ Machine-Learning
      - Decision Tree_project1
      - Decision Tree_project2
    - Logistic Regression
+     - Logisitc Regression_project1
 4. K-Fold Cross Validation
 5. Hyperparameter Tuning
    - Hyperparameter
