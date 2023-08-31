@@ -18,6 +18,9 @@ Machine-Learning
      - K-Nearest Neighbor_project1
      - K-Nearest Neighbor_project2
    - Decision Tree
+     - Decision Tree_concept
+     - Decision Tree_project1
+     - Decision Tree_project2
    - Logistic Regression
 4. K-Fold Cross Validation
 5. Hyperparameter Tuning
