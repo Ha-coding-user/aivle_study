@@ -29,7 +29,13 @@ Machine-Learning
      - 4.1.3 K-Fold Cross Validation_project2
 5. Hyperparameter Tuning
    - Hyperparameter
+     - 5.1.1 Hyperparameter_concept
    - Random Search, Grid Search
+     - 5.2.1 Random Search, Grid Search_concept
+     - 5.2.2 Random Search, Grid Search_project1 -> Grid Search
+     - 5.2.3 Random Search, Grid Search project2 -> Grid Search
+     - 5.2.4 Random Search, Grid Search project3 -> Random Search
+     - 5.2.5 Random Search, Grid Search project4 -> Random Search
 6. Ensemble
    - Understand about Ensemble
    - Voting
