@@ -37,12 +37,15 @@ Machine-Learning
      - 5.2.4 Random Search, Grid Search project3 -> Random Search
      - 5.2.5 Random Search, Grid Search project4 -> Random Search
 6. Ensemble
-   - Understand about Ensemble
-   - Voting
-   - Bagging
-   - Boosting
-   - Stacking
+   - 6.1.1 Ensemble_concept
 * Reference
   - Usage of Graphviz
   - Class Unbalance
   - Import Library
+
+7. Project
+   - Project1 -> Carseats
+   - Project2 -? Mobile
+   - Project3 -> Insurance
+   - Project4 -> Attrition
+   - Project5 -> AirLine
